@@ -1,0 +1,77 @@
+H. Chase Stevens (chase@chasestevens.com)
+
+
+Education
+
+	University of Edinburgh, Scotland, UK  2011 - Present
+		Master of Arts Honors Cognitive Science
+		Anticipated degree classification: First-class honours
+		(GPA equivalent 3.86/4.00)
+		Expected to graduate May 2015
+
+	University of Southern Maine, Portland, ME, USA  2009 - 2011 
+		(non-degree candidate)
+
+	The New School, Kennebunk, ME, USA  2007 - 2010
+		Senior Project: Taught semester-long course in Python
+		Graduated Valedictorian
+
+Technical Skills
+
+	Programming Languages: Python, Haskell, Java, Javascript, C#
+	Data: XPath, Microsoft SQL Server, MySQL
+	IDEs: Visual Studio 2012/2013, Eclipse
+	VCSs: Git, SVN
+
+Positions Held
+
+	Undergraduate Software Engineer at Skyscanner, Ltd.  August 2013 - Present
+		- Leveraged NLP and machine learning techniques to deliver browser-
+		  based, point-and-click tool for automatic generation of web scrapers
+		- Delivered and assisted in implementing roadmap for Selenium 
+		  WebDriver-based browser automation and web scraper framework in 
+		  Python
+		- Prototyped push-notification system and app for wearable devices, as 
+		  part of Research and Development division
+
+	Intern, Data Acquisition at Skyscanner, Ltd.  May 2013 - August 2013
+		- Developed, maintained, and ensured accuracy of business-critical web
+		  scrapers
+		- Collaborated heavily with technical and non-technical staff both
+		  inside and outwith the company
+
+	Q.A. Engineer Internship at CashStar, Inc.  June 2011 - August 2011
+		- Ensured adherence of consumer-facing products to quality standards
+		- Developed custom CMS to manage client requirements and specifications
+	
+	Intern at Law Offices of Nichols, Webb & Loranger  2007 - 2011
+		- Produced critical analyses of legal documents, discovery, and 
+		  scientific publications
+
+Volunteer Experience
+
+	Member of the Board of Directors of The New School Corporation  2009 - 2011
+		- Ensured 501(c)(3) corporation complied with by-laws and mission 
+		  statement
+		- Analyzed and ratified school policies and budgetary proposals for The
+		  New School (Kennebunk, ME, USA)
+
+Selected Honors and Awards
+
+	J.P. Morgan Spring Week in Technology 3rd Place (April 2013)
+
+	University of Edinburgh Smart Data Hack 
+	(http://data.inf.ed.ac.uk/ilwhack/finalprojects.php) “Best for Communities”
+	for SaferRoute (https://github.com/team-tusive/ilwhack) (Team Leader) 
+	(February 2013)
+
+	University of Edinburgh INF1-OP (https://sites.google.com/site/2012oop/winners)
+	“Best Project (Experienced)” for StratLoc (http://team2civ.chasestevens.com) 
+	(April 2012)
+			
+	National Merit Scholar Finalist (Spring 2010)
+
+	Valedictorian of The New School Class of 2010 (Spring 2010)
+
+	The New School Teacher of the Year (Spring 2010)
+
