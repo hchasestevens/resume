@@ -12,8 +12,8 @@ University of Edinburgh: MA Hons. Cognitive Science   2011 - 2015
 
 
 SKILLS
-Code: Python, Haskell, Matlab, Java, Javascript, Data: XPath, 
-      Microsoft SQL Server, MySQL
+Code: Python, Haskell, Matlab, Java, Javascript, C#
+Data: XPath, Microsoft SQL Server, MySQL
 IDEs: Visual Studio 2012/2013, Eclipse
 VCSs: Git, SVN
 
@@ -33,13 +33,13 @@ Intern, Data Acquisition at Skyscanner, Ltd.   May 2013 - August 2013
 - Collaborated heavily with technical and non-technical staff both inside and 
   outwith the company
 
-Quality Assurance Engineer Intern at CashStar, Inc. J  une 2011 - August 2011
+Quality Assurance Engineer Intern at CashStar, Inc.   June 2011 - August 2011
 - Ensured adherence of consumer-facing products to quality standards
 - Developed custom CMS to manage client requirements and specifications
 
 
 CONFERENCE POSTERS
-2015 (forthcoming). Stevens, H. C.  Rohde, H. "Modeling Referential 
+2015 (forthcoming). Stevens, H. C. & Rohde, H. "Modeling Referential 
     Coordination as a Particle Swarm Optimization Task." The 19th Workshop on 
     the Semantics and Pragmatics of Dialogue. Gothenburg, Sweden.
 
